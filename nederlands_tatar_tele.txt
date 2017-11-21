@@ -1,0 +1,70 @@
+﻿теги:
+FIX = не меняется
+ACC = меняется интонационно
+F = свободно меняется
+D = демонстратив
+C = числительное
+A = прилагательное
+N = существительное
+R = артикль
+V = вспомогательный глагол
+__________________________________________
+
+
+
+№	русский				нидерландский				порядок		комментарий	татарский	порядок
+1	яблоко				appel					fix		N
+2	зеленый/зеленое			groen/groene				fix		A
+3	зелёное яблоко			een groene appel			fix		RAN
+4	это зелёное яблоко		deze groene appel			fix		DAN
+5	яблоки				appels/(appelen)			fix		N-PL
+6	три				drie					fix		C
+7	три яблока			drie appels				fix		CN
+8	три зелёных яблока		drie groene appels			fix		CAN
+9	эти три зеленых яблока		deze drie groene appels			fix		DCAN
+10	сын				zoon					fix		N
+11	любимый,зеленый сын		(lievelingszon)groene zoon		fix		AN
+12	это любимый сын			dat is een groene zoon			fix		DVRAN
+13	это мой любимый сын		dat is mein groene zoon			fix
+14	пальто				jas					fix
+15	погода				weer					fix
+16	хорошее погода			goed weer				fix
+17	хорошая пальто			een goede jas				fix
+18	большой				groos					fix
+19	красный				zood					fix
+20	пес				hond					fix
+21	добрый				goed					fix
+22	рыжий				zoodharig				fix
+23	домашний			tha?uis-, tam				fix
+24	хорошее большое красное яблоко	goede grote rode appel
+25	добрый рыжий домашний пес	goede tamme rode hond
+					goede rode tamme hond
+26	1-2				kleiner,dan
+27	2-3				kleiner,dan
+28	3-2-1				groter dan de andere[n]
+29	самое большое яблоко		de grootste appel
+30	первое-последнее		rotter dan de laatste
+31	правое-левое			minder rot dan,vesser dan?
+32	взрослее/выше1			langer dan
+33	взрослее/выше2			langer dan
+34	выше всех			het? langst
+35	самая высокая девочка		let? langste meige?
+36	деревянный стол			lanten tafel?
+37	более деревянный стол		n/a
+38	железный стол			skip
+39	более железный стол		skip
+40	более осенний парк		lerfstiger park
+41	более красный			roder
+42	оранжевый			oranje
+43	более оранжевый			meer oranje
+44	временный			tijdelj?
+45	более временный			n/a
+46	ровный				egaal
+47	более ровный			egaler
+48	прямой				recht
+49	более прямой			rechter
+					rechtsrechs?
+50	квадратный			vierhant
+51	квадратнее			vierhanter
+52	дом1-дом2			oostenijher/ten oosten van...
+53	дом1-дом3			zuidelijher/ten suden van...
